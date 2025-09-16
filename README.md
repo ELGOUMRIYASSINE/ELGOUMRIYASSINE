@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://github.com/oakoudad/badge42">
+    <img src="https://badge.mediaplus.ma/colorfulwaves/yelgoumr?1337Badge=off&42Network=off" alt="yelgoumr's 42 stats" />
+  </a>
+</p>
+
 <h1 align="center">What's up? 👋</h1>
 
 ###
