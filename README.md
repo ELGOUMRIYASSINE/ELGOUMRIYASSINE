@@ -53,6 +53,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+  [![Boot.dev Learn Git certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/1074ab6d-01cd-4c29-b907-5b1fe634d3b9.jpeg?v=1784805662)](https://www.boot.dev/certificates/1074ab6d-01cd-4c29-b907-5b1fe634d3b9)
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
+  
 </div>
